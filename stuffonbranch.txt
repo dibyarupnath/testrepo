@@ -1,0 +1,1 @@
+This is a file created on 'testBranch' created with GIT BASH command line.
